@@ -1,0 +1,2 @@
+PROJECT(myLib)
+ADD_SUBDIRECTORY(lib bin)

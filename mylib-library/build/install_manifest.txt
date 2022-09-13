@@ -1,0 +1,3 @@
+/usr/local/include/mylib/mylib.h
+/usr/local/lib/libmylib.so
+/usr/local/lib/libmylib.a
