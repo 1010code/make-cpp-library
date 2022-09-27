@@ -8,11 +8,11 @@ cmake ..
 make
 sudo make install
 cd ../../
-cp mylib-library/build/bin/libmylib.so mylib-linux-aarch64/lib/
+cp mylib-library/build/bin/libmylib.so release/mylib-linux-aarch64/lib/
 ```
 
 ```sh
-g++ -o main ./main.cpp -I mylib-linux-aarch64/include -L mylib-linux-aarch64/lib -lmylib -std=c++11
+g++ -o main ./main.cpp -I release/mylib-linux-aarch64/include -L release/mylib-linux-aarch64/lib -lmylib -std=c++11
 ```
 
 ## Reference
