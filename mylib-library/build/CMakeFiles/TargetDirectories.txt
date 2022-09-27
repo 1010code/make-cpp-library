@@ -1,0 +1,14 @@
+/home/jovyan/project/make-cpp-library/mylib-library/build/CMakeFiles/install/strip.dir
+/home/jovyan/project/make-cpp-library/mylib-library/build/CMakeFiles/install.dir
+/home/jovyan/project/make-cpp-library/mylib-library/build/CMakeFiles/install/local.dir
+/home/jovyan/project/make-cpp-library/mylib-library/build/CMakeFiles/list_install_components.dir
+/home/jovyan/project/make-cpp-library/mylib-library/build/CMakeFiles/edit_cache.dir
+/home/jovyan/project/make-cpp-library/mylib-library/build/CMakeFiles/rebuild_cache.dir
+/home/jovyan/project/make-cpp-library/mylib-library/build/bin/CMakeFiles/install/strip.dir
+/home/jovyan/project/make-cpp-library/mylib-library/build/bin/CMakeFiles/install/local.dir
+/home/jovyan/project/make-cpp-library/mylib-library/build/bin/CMakeFiles/mylib.dir
+/home/jovyan/project/make-cpp-library/mylib-library/build/bin/CMakeFiles/list_install_components.dir
+/home/jovyan/project/make-cpp-library/mylib-library/build/bin/CMakeFiles/mylib_static.dir
+/home/jovyan/project/make-cpp-library/mylib-library/build/bin/CMakeFiles/rebuild_cache.dir
+/home/jovyan/project/make-cpp-library/mylib-library/build/bin/CMakeFiles/edit_cache.dir
+/home/jovyan/project/make-cpp-library/mylib-library/build/bin/CMakeFiles/install.dir
