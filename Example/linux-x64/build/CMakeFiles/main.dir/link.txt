@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main.dir/main.cpp.o  -o main -Wl,-rpath,/home/jovyan/project/make-cpp-library/Example/linux-x64/mylib-linux-x64/lib ../mylib-linux-x64/lib/libmylib.so 

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../mylib-linux-x64/include/mylib.h
+
+/home/jovyan/project/make-cpp-library/Example/linux-x64/main.cpp
+iostream
+-
+mylib.h
+-
+
