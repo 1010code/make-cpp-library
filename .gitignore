@@ -1,4 +1,8 @@
 .DS_Store
-build/*
 main
+build
+*/build
+*/*/build
 .ipynb_checkpoints
+*/.ipynb_checkpoints
+*/*/.ipynb_checkpoints
